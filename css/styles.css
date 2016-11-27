@@ -7,6 +7,16 @@ hr{
     height:3px;
     background-color:#7d97ad;
 }
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 10px;
+    margin-top: -10px;
+}
+
 .text-muted{
     color:  #7d97ad;
 }
@@ -19,10 +29,6 @@ hr{
     font-weight: 100;
 }
 
-
-.title-super{
-    font-size: 50px;
-}
 
 .title-logo{
     margin-top: 20px;
